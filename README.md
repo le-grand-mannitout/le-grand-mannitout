@@ -26,7 +26,7 @@ The projects I'm working on :
 [Baseball algo](https://github.com/le-grand-mannitout/Baseball_algo) : Scrapping data from baseballreference.
 
 
-[Megaman](https://github.com/Developper-team-sponso-par-Kirby54/Megaman) : Bot discord
+[Megaman](https://github.com/Developper-team-sponso-par-Kirby54/Megaman) : Bot discord.
 
 **📫 How to reach me :**
 
