@@ -2,7 +2,7 @@
 
 I'm a french student who's doing little code when mom's okay with it..
 
-I'm a beta testing for [Omega](https://github.com/Omega-Numworks/Omega).
+I'm beta testing for [Omega](https://github.com/Omega-Numworks/Omega).
 
 **🖥️ Language :**
 
