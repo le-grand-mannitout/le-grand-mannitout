@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**le-grand-mannitout/le-grand-mannitout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french student that doing little code when mom's okay with it..
 
-Here are some ideas to get you started:
+I'm a beta testing for [Omega](https://github.com/Omega-Numworks/Omega).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**computer Language :**
+I'm currently working with python.
+
+**file_folder Project :**
+The projects I'm working on :
+
+[Tuxound](https://github.com/Developper-team-sponso-par-Kirby54/Sound_player) : A sound player in terminal.
+[Startup Software application](https://github.com/le-grand-mannitout/Startup_soft_pattern_application) : An application to make the computer setup at startup more ergonomic.
+[Graphical interface for youtube-dl](https://github.com/le-grand-mannitout/Graphical_interface_for_youtube-dl) : A simple interface for youtube-dl with TKinter.
+[Baseball algo](https://github.com/le-grand-mannitout/Baseball_algo) : Scrapping data from baseballreference.
+[Megaman](https://github.com/Developper-team-sponso-par-Kirby54/Megaman) : Bot discord
+
+**📫 How to reach me :**
+
+**Discord** : Le_Grand_Mannitout#2881
+
+(If I don't answer I'm probably playing the Solitaire)
