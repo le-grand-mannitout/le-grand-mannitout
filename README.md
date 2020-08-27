@@ -4,10 +4,14 @@ I'm a french student that doing little code when mom's okay with it..
 
 I'm a beta testing for [Omega](https://github.com/Omega-Numworks/Omega).
 
-**computer Language :**
+**🖥️ Language :**
+
+
 I'm currently working with python.
 
-**file_folder Project :**
+**🔭 Project :**
+
+
 The projects I'm working on :
 
 [Tuxound](https://github.com/Developper-team-sponso-par-Kirby54/Sound_player) : A sound player in terminal.
@@ -17,6 +21,8 @@ The projects I'm working on :
 [Megaman](https://github.com/Developper-team-sponso-par-Kirby54/Megaman) : Bot discord
 
 **📫 How to reach me :**
+
+
 
 **Discord** : Le_Grand_Mannitout#2881
 
