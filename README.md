@@ -20,13 +20,8 @@ The projects I'm working on :
 [Startup Software application](https://github.com/le-grand-mannitout/Startup_soft_pattern_application) : An application to make the computer setup at startup more ergonomic.
 
 
-[Graphical interface for youtube-dl](https://github.com/le-grand-mannitout/Graphical_interface_for_youtube-dl) : A simple interface for youtube-dl with TKinter.
-
-
 [Baseball algo](https://github.com/le-grand-mannitout/Baseball_algo) : Scrapping data from baseballreference.
 
-
-[Megaman](https://github.com/Developper-team-sponso-par-Kirby54/Megaman) : Bot discord.
 
 **📫 How to reach me :**
 
