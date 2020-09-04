@@ -12,7 +12,7 @@ I'm currently working with python.
 **🔭 Project :**
 
 
-The projects I'm working on :
+My projects :
 
 [Tuxound](https://github.com/Developper-team-sponso-par-Kirby54/Sound_player) : A sound player in terminal.
 
